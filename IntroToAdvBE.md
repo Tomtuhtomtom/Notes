@@ -1,7 +1,9 @@
 # Getting started with PostgresQL
 ## Steps to get started
 1. start a django project
-    don't worry about creating the app yet, get a django project up and running
-2. install postgresql
-3. make custom user
-4. migrate
+2. make custom user
+3. install postgresql
+4. install/setup django-environ
+5. migrate
+
+
